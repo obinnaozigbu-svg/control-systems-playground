@@ -18,7 +18,7 @@ b = 0.4      # damping coefficient
 # Controller gains (PD)
 # -----------------------------
 Kp = 20.0
-Kd = 5.0
+Kd = 0.0
 
 # -----------------------------
 # Reference
